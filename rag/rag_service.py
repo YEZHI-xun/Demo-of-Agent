@@ -6,11 +6,17 @@ from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from rag.vector_store import VectorStoreService
 from utils.prompt_loader import load_rag_prompts
-from langchain_core.prompts import PromptTemplate
 from model.model_factory import chat_model
 from langchain_core.runnables import RunnableWithMessageHistory
-from rag.file_history_store import get_history
+from rag.file_history_store import FileChatMessageHistory
+from utils.path_tool import get_abs_path
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+
+
+def get_rag_history(session_id: str) -> FileChatMessageHistory:
+    """RAG 总结链路的独立会话记忆（chat_history/rag 子目录），
+    与主 Agent 的会话记忆文件分离，避免两条链路写同一文件导致历史重复、相互污染"""
+    return FileChatMessageHistory(session_id, get_abs_path("chat_history/rag"))
 
 
 def print_prompt(prompt):
@@ -42,7 +48,7 @@ class RagSummarizeService(object):
         base_chain = self.prompt_template | print_prompt | self.model | StrOutputParser()
         chain = RunnableWithMessageHistory(
             base_chain,
-            get_history,                        # 历史存取工厂
+            get_rag_history,                    # 历史存取工厂（独立目录）
             input_messages_key="input",         # 输入中"当前用户消息"字段
             history_messages_key="history"      # 输入中"历史对话"字段
         )

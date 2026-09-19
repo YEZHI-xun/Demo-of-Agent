@@ -33,7 +33,8 @@ if prompt:
 
     response_messages = []
     with st.spinner("智能客服思考中..."):
-        res_stream = st.session_state["agent"].execute_stream(prompt)
+        # 记忆功能：传入当前浏览器会话的 session_id，Agent 按会话读写对话历史
+        res_stream = st.session_state["agent"].execute_stream(prompt, st.session_state["session_id"])
 
         def capture(generator, cache_list):
 

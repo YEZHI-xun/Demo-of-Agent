@@ -35,9 +35,9 @@ class FileChatMessageHistory(BaseChatMessageHistory):
         #     new_messages.append(d)
 
         new_messages = [message_to_dict(message) for message in all_messages]
-        # 将数据写入文件
+        # 将数据写入文件（ensure_ascii=False：中文以明文保存，便于直接查看历史记录）
         with open(self.file_path, "w", encoding="utf-8") as f:
-            json.dump(new_messages, f)
+            json.dump(new_messages, f, ensure_ascii=False, indent=2)
 
     @property       # @property装饰器将messages方法变成成员属性用
     def messages(self) -> list[BaseMessage]:
@@ -47,6 +47,9 @@ class FileChatMessageHistory(BaseChatMessageHistory):
                 messages_data = json.load(f)    # 返回值就是：list[字典]
                 return messages_from_dict(messages_data)
         except FileNotFoundError:
+            return []
+        except json.JSONDecodeError:
+            # 文件损坏（如写入中途被中断）时按空历史处理，避免整个会话不可用
             return []
 
     def clear(self) -> None:
