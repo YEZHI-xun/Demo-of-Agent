@@ -1,0 +1,28 @@
+# ============ Web 界面 ============
+streamlit
+
+# ============ LangChain / LangGraph 核心 ============
+# langchain 必须为包含 langchain.mcp（MCPAdapter）的新版本，装完用
+# python -c "from langchain.mcp import MCPAdapter" 验证，报错则升级 langchain
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+
+# ============ 大模型 SDK ============
+dashscope
+
+# ============ 向量库 / 文件解析 / 配置解析 ============
+chromadb
+pypdf
+pyyaml
+
+# ============ MCP 服务 / 网络请求 ============
+fastmcp
+mcp
+httpx
+
+# ============ 环境变量注入 ============
+python-dotenv

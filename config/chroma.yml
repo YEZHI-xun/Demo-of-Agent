@@ -1,0 +1,10 @@
+collection_name: agent         # 向量数据库
+persist_directory: chroma_db  # 向量数据库保存目录
+k: 3                          # 搜索结果数量
+data_path: data                # 数据文件夹路径
+md5_hex_store: md5.text         # md5存储文件路径
+allow_knowledge_file_type: ["txt", "pdf"]  # 允许的知识文件类型
+
+chunk_size: 200                     # 文本分片大小
+chunk_overlap: 20                  # 文本分片重叠
+separators: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]  # 文本分片分隔符

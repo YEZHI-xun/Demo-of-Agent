@@ -1,0 +1,116 @@
+2026-09-17 15:36:48,553 - agent - INFO - logger_handler.py:56 - 信息日志
+2026-09-17 15:36:48,553 - agent - ERROR - logger_handler.py:57 - 错误日志
+2026-09-17 15:36:48,553 - agent - WARNING - logger_handler.py:58 - 警告日志
+2026-09-17 15:36:48,553 - agent - DEBUG - logger_handler.py:59 - 调试日志
+2026-09-17 16:59:40,907 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-17 16:59:40,908 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-17 16:59:40,909 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-17 16:59:40,910 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-17 16:59:40,911 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-17 16:59:40,911 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:10,510 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-17 17:01:10,510 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:10,511 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:10,511 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:10,511 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:10,512 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:42,161 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-17 17:01:42,161 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:42,162 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:42,162 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:42,163 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-17 17:01:42,163 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:11,733 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-17 17:03:11,733 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:11,734 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:11,734 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:11,735 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:11,735 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:46,128 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-17 17:03:46,128 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:46,129 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:46,129 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:46,129 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-17 17:03:46,130 - agent - INFO - vector_store.py:75 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-17 17:04:29,302 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf 内容加载成功
+2026-09-17 17:04:31,357 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt 内容加载成功
+2026-09-17 17:04:33,963 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt 内容加载成功
+2026-09-17 17:04:38,163 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt 内容加载成功
+2026-09-17 17:04:40,488 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt 内容加载成功
+2026-09-17 17:04:42,353 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt 内容加载成功
+2026-09-17 17:13:58,205 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问.pdf 内容加载成功
+2026-09-17 17:13:59,876 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫地机器人100问2.txt 内容加载成功
+2026-09-17 17:14:02,423 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\扫拖一体机器人100问.txt 内容加载成功
+2026-09-17 17:14:06,649 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\故障排除.txt 内容加载成功
+2026-09-17 17:14:08,484 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\维护保养.txt 内容加载成功
+2026-09-17 17:14:10,878 - agent - INFO - vector_store.py:98 - [加载知识库]D:\develop\code\pycharm_project\P6AI大模型RAG与智能体开发_demo\data\选购指南.txt 内容加载成功
+2026-09-17 22:59:57,379 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-17 22:59:57,380 - agent - DEBUG - middleware.py:43 - [log_before_model]HumanMessage | 给我生成我的使用报告
+2026-09-17 22:59:59,506 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_id
+2026-09-17 22:59:59,506 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-09-17 22:59:59,506 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_id调用成功
+2026-09-17 22:59:59,507 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有3条消息。
+2026-09-17 22:59:59,507 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 1009
+2026-09-17 23:00:00,520 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_current_month
+2026-09-17 23:00:00,520 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-09-17 23:00:00,520 - agent - INFO - middleware.py:24 - [tool monitor]工具get_current_month调用成功
+2026-09-17 23:00:00,521 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有5条消息。
+2026-09-17 23:00:00,521 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 2025-02
+2026-09-17 23:00:01,875 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fill_context_for_report
+2026-09-17 23:00:01,875 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-09-17 23:00:01,875 - agent - INFO - middleware.py:24 - [tool monitor]工具fill_context_for_report调用成功
+2026-09-17 23:00:01,876 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有7条消息。
+2026-09-17 23:00:01,876 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-09-17 23:00:03,740 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fetch_external_data
+2026-09-17 23:00:03,740 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'user_id': '1009', 'month': '2025-02'}
+2026-09-17 23:00:03,742 - agent - INFO - middleware.py:24 - [tool monitor]工具fetch_external_data调用成功
+2026-09-17 23:00:03,742 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有9条消息。
+2026-09-17 23:00:03,742 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | {"特征": "80㎡两居 | 养宠 | 仿实木", "效率": "宠物毛发清理:86%\\n自动回充成功率:93%", "耗材": "胶刷缠绕:中度\\n滤网更换:剩余25天", "对比": "养宠家庭中清洁效率处于中上等水平"}
+2026-09-17 23:00:05,588 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-17 23:00:05,588 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '养宠家庭扫地机器人保养建议'}
+2026-09-17 23:00:07,772 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-17 23:00:07,773 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有11条消息。
+2026-09-17 23:00:07,773 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 养宠家庭应每次清扫后全面清理主刷、尘盒和拖布，每日清理防撞条缝隙的毛发，每周对机器人进行除味消毒，并将耗材更换周期缩短50%；若机器人沾到宠物粪便，需立即用湿巾清理并用中性洗涤剂擦拭；同时每日检查边刷旋转是否卡顿，及时清理以防电机烧毁。
+2026-09-17 23:00:08,783 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-17 23:00:08,783 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '仿实木地板清洁注意事项'}
+2026-09-17 23:00:10,421 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-17 23:00:10,422 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有13条消息。
+2026-09-17 23:00:10,422 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 仿实木地板清洁时应调至低档出水量，使用干拖模式，避免地面积水；每周对机器人轮组进行除尘，防止泥沙磨损地板；可关闭门窗减少灰尘进入，并设置“大吸力+中档出水量”组合模式实现深度清洁，适当降低清扫频次。
+2026-09-17 23:04:54,575 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-17 23:04:54,575 - agent - DEBUG - middleware.py:43 - [log_before_model]HumanMessage | 扫地机器人怎么保养
+2026-09-17 23:04:56,063 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-17 23:04:56,065 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人保养维护方法'}
+2026-09-17 23:04:59,396 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-17 23:05:01,551 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有3条消息。
+2026-09-17 23:05:01,552 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 每日使用后用干软布擦拭机身外壳，清理防撞条缝隙的毛发和线头；每次清扫后清理主刷、尘盒及拖布（宠物家庭需全面清理并每周除味消毒）；每日检查边刷旋转是否卡顿，及时停机清理；每周检查充电座电源适配器有无发热或异响；每月检查扫拖一体机型的拖地模组接口是否清洁、连接顺畅；若沾到宠物粪便，立即用湿巾清理后再用中性洗涤剂擦拭；不同地面环境需针对性维护，如地毯环境检查主刷复位，水泥地/老旧地砖环境及时清理轮组泥沙。
+2026-09-17 23:06:12,326 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-17 23:06:12,327 - agent - DEBUG - middleware.py:43 - [log_before_model]HumanMessage | 在我在的城市扫地机器人怎么保养
+2026-09-17 23:06:16,021 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-09-17 23:06:16,021 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-09-17 23:06:16,021 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-09-17 23:06:16,055 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有3条消息。
+2026-09-17 23:06:16,055 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 杭州
+2026-09-17 23:06:20,677 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-17 23:06:20,678 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '高湿度城市扫地机器人保养方法'}
+2026-09-17 23:06:23,384 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-17 23:06:24,630 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有5条消息。
+2026-09-17 23:06:24,631 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 高湿度城市使用扫地机器人时，每次清扫完成后应及时用干软布擦拭机身外壳和底部，去除水渍，防止污渍附着或内部受潮；清理防撞条缝隙中的毛发和杂物，确保部件正常回弹；避免在卫生间等积水区域拖地，仅进行扫地作业，并在清理后彻底擦干机身底部。
+2026-09-17 23:07:36,711 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-17 23:07:36,711 - agent - DEBUG - middleware.py:43 - [log_before_model]HumanMessage | 在我的位置扫地机器人怎么保养
+2026-09-17 23:07:54,478 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-17 23:07:54,479 - agent - DEBUG - middleware.py:43 - [log_before_model]HumanMessage | 在我的位置当前天气下扫地机器人怎么保养
+2026-09-17 23:07:59,932 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-09-17 23:07:59,932 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-09-17 23:07:59,933 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-09-17 23:07:59,965 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有3条消息。
+2026-09-17 23:07:59,966 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 合肥
+2026-09-17 23:08:03,125 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_weather
+2026-09-17 23:08:03,126 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'city': '合肥'}
+2026-09-17 23:08:03,126 - agent - INFO - middleware.py:24 - [tool monitor]工具get_weather调用成功
+2026-09-17 23:08:03,648 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有5条消息。
+2026-09-17 23:08:03,648 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 城市合肥天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低
+2026-09-17 23:08:07,208 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-17 23:08:07,208 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '中等湿度晴天环境下扫地机器人的保养建议'}
+2026-09-17 23:08:08,880 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-17 23:08:09,884 - agent - INFO - middleware.py:41 - [log_before_model]即将调用模型，带有7条消息。
+2026-09-17 23:08:09,886 - agent - DEBUG - middleware.py:43 - [log_before_model]ToolMessage | 在中等湿度晴天环境下，建议每日使用后用干软布擦拭机身外壳，及时清理防撞条缝隙的毛发和线头；每日检查边刷旋转是否卡顿，如有异常立即停机清理；每次清扫完成后将模式调至“待机”以减少电量消耗。
